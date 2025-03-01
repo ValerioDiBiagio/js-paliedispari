@@ -13,7 +13,7 @@ Dichiariamo chi ha vinto.
 - Generare un numero random (da 1 a 5) per il computer
 - Somma dei due numeri
    - SE la somma dei due numeri è pari
-     - Input "pari"
+     - Input "Ho vinto"
    - ALTRIMENTI se la somma dei due numeri è dispari
-     - Input "dispari"
+     - Input "Ho vinto"
 - Dichiarare il vincitore
